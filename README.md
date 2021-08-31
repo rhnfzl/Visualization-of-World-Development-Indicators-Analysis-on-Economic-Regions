@@ -6,7 +6,7 @@ The study of The World Development Indicators is to compare and analyze the econ
 
 ## You can watch the demo of the dashboard here :
 
-<a href="https://www.youtube.com/watch?v=-2Ytnk78kmg&t=7s&ab_channel=RehanFazal" target="_blank"><img src="http://img.youtube.com/vi/-2Ytnk78kmg&t=7s/3.jpg" 
+<a href="https://www.youtube.com/watch?v=-2Ytnk78kmg&t=7s&ab_channel=RehanFazal" target="_blank"><img src="https://img.youtube.com/vi/-2Ytnk78kmg/3.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
