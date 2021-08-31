@@ -2,7 +2,7 @@
 
 The World Development Indicators span a 58-year period—from 1960 to 2018. It contains the most up-to-date global development statistics accessible, as well as national and regional economic projections. It includes information on more than 217 economies. The data collection includes a wealth of information on a variety of development indicators, including agriculture and food security, climate change, economic growth, education, financial sector development, gender health and nutrition, and population macroeconomic vulnerability and debt. The emphasis will be on changes in the regional economy's size and structure, as well as their implications for national economies. Macroeconomic performance metrics such as GDP, GNI (Atlas Method), PPP, and GDP yearly growth will also be evaluated.
 
-The study of The World Development Indicators is to compare and analyze the economy of different regions over a period of time (1990-2018) using different interactive visualization techniques. The dataset contains 1,600-time series indicators for 217 economies and more than 40 country groups, with data for many indicators going back more than 50 years. Our goal is to answer some questions and hypotheses based on the analysis of the data. Different visualization and interaction techniques were used for the analysis of the data.
+The study of The World Development Indicators is to compare and analyze the economy of different regions over a period of time (1990-2018) using different interactive visualization techniques. The dataset contains 1,600-time series indicators for 217 economies and more than 40 country groups.
 
 ## You can watch the demo of the dashboard here :
 
